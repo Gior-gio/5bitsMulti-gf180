@@ -5,8 +5,7 @@
 | :exclamation: Important Note            |
 |-----------------------------------------|
 
-# 5bitsMulti-gf180
-# 5-Bits Multiplier
+## 5-Bits Multiplier
 
 Digital flow implementation using OpenLane for a custom 5-bit multiplier.
 
@@ -20,6 +19,6 @@ The addition tree is as follows:
 
 It was presented as one of the exercises of the subject "Digital Systems II" in the first semester of 2022 at UIS, Santander, Colombia
 
-## Final result in Klayout
+### Final result in Klayout
 
 ![FinalResult2.png](./Media/FinalResult2.png)
