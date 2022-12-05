@@ -14,4 +14,4 @@ It was presented as one of the exercises of the subject "Digital Systems II" in 
 
 ## Final result in Klayout
 
-![FinalResult.png](./Media/FinalResult.png)
+![FinalResult.png](./Media/FinalResult2.png)
