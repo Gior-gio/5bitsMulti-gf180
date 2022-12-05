@@ -9,7 +9,7 @@
 
 Digital flow implementation using OpenLane for a custom 5-bit multiplier.
 
-It works like the Wallace's or Dada's multiplier, using the long multiplication algorithm and uses a custom adder which works like this:
+It works like the Wallace's or Dada's multiplier, using the long multiplication algorithm and a custom adder which works like this:
 
 ![221Adder.png](./Media/221Adder.png)
 
